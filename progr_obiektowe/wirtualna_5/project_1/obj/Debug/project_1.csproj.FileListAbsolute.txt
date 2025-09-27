@@ -1,0 +1,7 @@
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\bin\Debug\project_1.exe.config
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\bin\Debug\project_1.exe
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\bin\Debug\project_1.pdb
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\obj\Debug\project_1.exe
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\wirtualna_5\project_1\obj\Debug\project_1.pdb
