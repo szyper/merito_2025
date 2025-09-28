@@ -67,7 +67,34 @@ namespace project_1
           Console.WriteLine("Brak pojazdu w garażu");
         }
       }
+
+      public void ShowVehicles()
+      {
+        Dictionary<Type, int> vehicleTypes = new Dictionary<Type, int>();
+
+        foreach (Vehicle vehicle in Vehicles)
+        {
+          foreach (Type type in vehicle.Type)
+          {
+            if (vehicleTypes.ContainsKey(type))
+            {
+              vehicleTypes[type]++;
+            }
+            else
+            {
+              vehicleTypes[type] = 1;
+            }
+          }
+        }
+
+        foreach (KeyValuePair<Type, int> pair in vehicleTypes)
+        {
+          Console.WriteLine($"{pair.Key}: {pair.Value}");
+        }
+      }
     }
+
+    
 
     static void Main(string[] args)
     {
@@ -95,7 +122,9 @@ namespace project_1
 
       garage.RemoveVehicle(car1);
       garage.AddVehicles(car2);
+      garage.RemoveVehicle(car2);
 
+      garage.ShowVehicles();
 
     }
   }
