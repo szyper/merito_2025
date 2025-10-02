@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/hIinz_3_5s_25_26/project_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hIinz_3_5s_25_26_sp_1/project_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hIinz_3_5s_25_26_sp_2/project_1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

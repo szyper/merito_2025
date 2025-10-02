@@ -1,0 +1,7 @@
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\obj\Debug\project_1.csproj.AssemblyReference.cache
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\bin\Debug\project_1.exe.config
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\bin\Debug\project_1.exe
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\bin\Debug\project_1.pdb
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\obj\Debug\project_1.exe
+C:\dane\studia\wsb\2025\zajęcia\wyklad_11_30_czwartek\project_1\obj\Debug\project_1.pdb
