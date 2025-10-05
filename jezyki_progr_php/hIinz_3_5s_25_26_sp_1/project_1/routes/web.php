@@ -18,3 +18,24 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+Route::get('merito', function(){
+    return view('merito');
+})->name('merito');
+
+Route::redirect('/wsb', '/merito');
+
+Route::get('merito_data/{test?}', function($test=null){
+    //return ['name' => 'Janusz', 'surname' => 'Nowak'];
+    return view('merito_data', ['name' => 'Janusz', 'surname' => 'Nowak']);
+})->name('Główna strona Merito z danymi');
+
+Route::get('pages/{x}', function($x){
+    $pages = [
+        'about' => 'Strona Merito',
+        'contact' => 'merito@wp.pl',
+        'home' => 'Strona domowa'
+    ];
+
+    return $pages[$x];
+});
