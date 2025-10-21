@@ -2,6 +2,9 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MeritoController;
+use App\Http\Controllers\TestController;
+use App\Http\Controllers\PageController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -39,3 +42,11 @@ Route::get('pages/{x}', function($x){
 
     return $pages[$x];
 });
+
+//Route::get("site", [\App\Http\Controllers\MeritoController::class, "index"]);
+Route::get('/site', [MeritoController::class, 'index']);
+//Route::get('/m', [MeritoController::class, 'show']);
+
+Route::get('test', [TestController::class, 'test']);
+Route::get('drives/{page}', [PageController::class, 'show']);
+

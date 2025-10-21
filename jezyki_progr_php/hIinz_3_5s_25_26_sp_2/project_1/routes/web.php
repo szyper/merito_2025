@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\PageController;
+use App\Http\Controllers\BladeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -52,4 +54,9 @@ Route::prefix('admin')->group(function(){
     });
 });
 
+Route::get('site', [\App\Http\Controllers\TestController::class, 'index']);
 
+Route::get('drives/{drive}', [PageController::class, 'show']);
+Route::get('drives1/{drive}', [PageController::class, 'show1']);
+
+Route::get('test', [BladeController::class, 'index']);
