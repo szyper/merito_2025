@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "konstruktory_shallow_deep_copy/1.0.0": {
+        "runtime": {
+          "konstruktory_shallow_deep_copy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "konstruktory_shallow_deep_copy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

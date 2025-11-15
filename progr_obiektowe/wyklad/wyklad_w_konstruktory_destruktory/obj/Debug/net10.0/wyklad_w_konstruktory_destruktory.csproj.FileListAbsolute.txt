@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\bin\Debug\net10.0\wyklad_w_konstruktory_destruktory.exe
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\bin\Debug\net10.0\wyklad_w_konstruktory_destruktory.deps.json
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\bin\Debug\net10.0\wyklad_w_konstruktory_destruktory.runtimeconfig.json
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\bin\Debug\net10.0\wyklad_w_konstruktory_destruktory.dll
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\bin\Debug\net10.0\wyklad_w_konstruktory_destruktory.pdb
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.AssemblyInfo.cs
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.dll
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\refint\wyklad_w_konstruktory_destruktory.dll
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.pdb
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\wyklad_w_konstruktory_destruktory.genruntimeconfig.cache
+C:\Users\User\Desktop\wyklad_w_konstruktory_destruktory\obj\Debug\net10.0\ref\wyklad_w_konstruktory_destruktory.dll

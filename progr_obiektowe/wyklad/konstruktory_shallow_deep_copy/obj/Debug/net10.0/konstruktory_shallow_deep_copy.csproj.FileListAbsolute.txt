@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\bin\Debug\net10.0\konstruktory_shallow_deep_copy.exe
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\bin\Debug\net10.0\konstruktory_shallow_deep_copy.deps.json
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\bin\Debug\net10.0\konstruktory_shallow_deep_copy.runtimeconfig.json
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\bin\Debug\net10.0\konstruktory_shallow_deep_copy.dll
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\bin\Debug\net10.0\konstruktory_shallow_deep_copy.pdb
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.AssemblyInfo.cs
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.dll
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\refint\konstruktory_shallow_deep_copy.dll
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.pdb
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\konstruktory_shallow_deep_copy.genruntimeconfig.cache
+C:\Users\User\Desktop\konstruktory_shallow_deep_copy\obj\Debug\net10.0\ref\konstruktory_shallow_deep_copy.dll
