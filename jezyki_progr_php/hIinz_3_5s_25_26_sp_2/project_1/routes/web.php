@@ -3,6 +3,8 @@
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\BladeController;
+use App\Http\Controllers\UserController;
+
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -60,3 +62,8 @@ Route::get('drives/{drive}', [PageController::class, 'show']);
 Route::get('drives1/{drive}', [PageController::class, 'show1']);
 
 Route::get('test', [BladeController::class, 'index']);
+
+// Route::view('form', 'form');
+
+Route::get('form', [UserController::class, 'showForm'])->name('form');
+Route::get('formularz', [UserController::class, 'processForm']);
