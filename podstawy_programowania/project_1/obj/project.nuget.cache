@@ -1,14 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n87muwfKnEk=",
+  "dgSpecHash": "1rn5NXTy2KQ=",
   "success": true,
   "projectFilePath": "C:\\xampp2\\htdocs\\git\\merito_2025\\podstawy_programowania\\project_1\\project_1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\10.0.100-preview.1.25120.13\\microsoft.net.sdk.compilers.toolset.10.0.100-preview.1.25120.13.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.1\\microsoft.windowsdesktop.app.ref.9.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.1\\microsoft.netcore.app.ref.9.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.1\\microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.1\\microsoft.netcore.app.host.win-x64.9.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
