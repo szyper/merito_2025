@@ -6,15 +6,42 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Formularz</title>
+    <style>
+        .error {
+            color: red;
+            font-size: 14px;
+        }
+    </style>
 </head>
 <body>
     <h4>Podaj swoje dane</h4>
-    <form action="/formularz" method="get">
+
+    {{-- wyświetlanie błędów walidacji formularza --}}
+    @if($errors->any())
+        <div style="color:red;">
+            <ul>
+                @foreach($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        </div>
+    @endif
+
+    <form action="/formularz" method="get" novalidate>
         <label for="name">Imię</label>
-        <input type="text" name="name" id="name" value="{{ $name ?? '' }}" required><br><br>
+{{--        <input type="text" name="name" id="name" value="{{ $name ?? '' }}" required><br><br>--}}
+        <input type="text" name="name" id="name" value="{{ old('name') }}" required>
+        @error('name')
+            <div class="error">{{ $message }}</div>
+        @enderror
+        <br><br>
 
         <label for="age">Wiek</label>
-        <input type="text" name="age" id="age" value="{{ $age ?? '' }}" required><br><br>
+        <input type="text" name="age" id="age" value="{{ old('age') }}" required>
+        @error('age')
+        <div class="error">{{ $message }}</div>
+        @enderror
+        <br><br>
 
         <button type="submit">Wyślij</button>
     </form>

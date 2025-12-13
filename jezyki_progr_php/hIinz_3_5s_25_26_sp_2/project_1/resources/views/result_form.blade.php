@@ -9,3 +9,5 @@
 
     <a href="{{ route('form', ['name' => $name, 'age' => $age]) }}">Powrót do formularza</a>
 @endsection
+
+
