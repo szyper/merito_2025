@@ -1,0 +1,15 @@
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\bin\Debug\net9.0\6_delegaty.exe
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\bin\Debug\net9.0\6_delegaty.deps.json
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\bin\Debug\net9.0\6_delegaty.runtimeconfig.json
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\bin\Debug\net9.0\6_delegaty.dll
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\bin\Debug\net9.0\6_delegaty.pdb
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.AssemblyInfo.cs
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.sourcelink.json
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.dll
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\refint\6_delegaty.dll
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.pdb
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\6_delegaty.genruntimeconfig.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\6_delegaty\obj\Debug\net9.0\ref\6_delegaty.dll

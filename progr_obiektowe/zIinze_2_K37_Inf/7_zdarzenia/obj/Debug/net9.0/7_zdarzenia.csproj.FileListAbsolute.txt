@@ -1,0 +1,15 @@
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\bin\Debug\net9.0\7_zdarzenia.exe
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\bin\Debug\net9.0\7_zdarzenia.deps.json
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\bin\Debug\net9.0\7_zdarzenia.runtimeconfig.json
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\bin\Debug\net9.0\7_zdarzenia.dll
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\bin\Debug\net9.0\7_zdarzenia.pdb
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.AssemblyInfoInputs.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.AssemblyInfo.cs
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.csproj.CoreCompileInputs.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.sourcelink.json
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.dll
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\refint\7_zdarzenia.dll
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.pdb
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\7_zdarzenia.genruntimeconfig.cache
+C:\xampp2\htdocs\git\merito_2025\progr_obiektowe\zIinze_2_K37_Inf\7_zdarzenia\obj\Debug\net9.0\ref\7_zdarzenia.dll
